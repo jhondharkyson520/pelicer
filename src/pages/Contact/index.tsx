@@ -1,6 +1,5 @@
 
 import styled from "styled-components";
-import imgFundo from '../../assets/Support/imgFundo.svg';
 import { FaWhatsapp } from "react-icons/fa";
 
 const ContainerMain = styled.div`
